@@ -30,7 +30,7 @@ public class StatsLibrary {
 		{
 			median=list[n/2+1];
 		}
-		 median;
+		return median;
 	}
 
 	
